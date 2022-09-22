@@ -1,0 +1,68 @@
+{
+  "news": [
+    {
+      "id": "df7ea46e-5d96-4759-b9fb-d5aa4180b978",
+      "name": "Azizbek Yunusov",
+      "description": "kkk",
+      "category": "good News"
+    },
+    {
+      "id": "0ac2007e-14fe-4043-a398-bdfec73398bd",
+      "name": "shok xabar",
+      "description": "dddddddddddddsacdc",
+      "category": "sport News"
+    },
+    {
+      "id": "6c34a48f-0c39-4cb4-9915-35df5a061fa9",
+      "name": "shok xabar",
+      "description": "ddddddwwwwwwww",
+      "category": "good News"
+    },
+    {
+      "id": "81b45573-d76d-46fd-a2c1-c17bc2caeac2",
+      "name": "Azizbek Yunusov",
+      "description": "ss",
+      "category": "sport News"
+    },
+    {
+      "id": "bede52fd-4280-4a60-8d39-6bdb0802163a",
+      "name": "Azizbek Yunusov",
+      "description": "z",
+      "category": ""
+    },
+    {
+      "id": "9d843e87-afb2-46bc-805f-6437b793f746",
+      "name": "Azizbek Yunusov",
+      "description": "ww",
+      "category": ""
+    },
+    {
+      "id": "b19730eb-746d-460e-a006-95ce9c786ad3",
+      "name": "ffff",
+      "description": "aa",
+      "category": "good News"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "all",
+      "className": "m-1 px-2 py-1 bg-black-400"
+    },
+    {
+      "name": "good News",
+      "label": "good News",
+      "className": "m-1 px-2 py-1 bg-red-400"
+    },
+    {
+      "name": "sport News",
+      "label": "sport News",
+      "className": "m-1 px-2 py-1 bg-blue-700"
+    },
+    {
+      "name": "hot News",
+      "label": "hot News",
+      "className": "m-1 px-2 py-1 bg-amber-400"
+    }
+  ]
+}
